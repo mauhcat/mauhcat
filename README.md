@@ -8,6 +8,6 @@
   . 📱 UI/UX: Familiar with Figma for design.<br />
   . 📝 Version Control: Git/GitHub proficiency.<br />
   . ☁️ Deployment: Experienced in deploying on AWS, Heroku, Hostinger and Netlify.<br />
-  . ✔️ Testing: Familiar with Jest, Mocha, and React Testing Library.<br />
+  . ✔️ Testing: React Testing Library.<br />
   . 🔍 Problem-solving: Strong debugging skills.<br />
   . 💬 Communication: Effective team collaboration.<br />
