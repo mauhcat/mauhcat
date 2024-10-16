@@ -1,13 +1,26 @@
-### Hi there 👋 I'm Zani
+###👋 Welcome to My GitHub Profile!
 
 
-- 👨‍💻 Full Stack:Proficient in React and Node.js<br />
-- 🎨 Frontend: Strong in HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap, React.js.<br />
-- 🚀 Backend: Experience with Node.js, Firebase, and Convex.<br />
-- 🔄 State Management: Knowledgeable in Redux for large-scale React applications.<br />
-- 📱 UI/UX: Familiar with Figma for design.<br />
-- 📝 Version Control: Git/GitHub proficiency.<br />
-- ☁️ Deployment: Experienced in deploying on AWS, Heroku, Hostinger and Netlify.<br />
-- ✔️ Testing: React Testing Library.<br />
-- 🔍 Problem-solving: Strong debugging skills.<br />
-- 💬 Communication: Effective team collaboration.<br />
+- 🌟 About Me
+    Hi, I'm Zani, the CTO & CLO at Catalyst Labs — a tech-driven company focused on empowering startups and small businesses with innovative solutions. With a unique blend of technology and law, I       oversee both the technical vision and legal framework of the projects we work on.
+    I thrive on creating scalable tech architectures, building products that are user-centered, and ensuring they are legally compliant and secure in today's complex digital landscape.<br />
+
+🌟 What I Do
+Technical Expertise: Passionate about coding, cloud infrastructure, and the latest in software development. Proficient in [your primary languages/technologies].
+
+Legal Knowledge: Specializing in intellectual property, data privacy laws, and tech-related contracts, ensuring our solutions are not only innovative but also compliant.
+
+Hybrid Leadership: Combining my roles as Chief Technology Officer (CTO) and Chief Legal Officer (CLO) to lead with a strategic, multidisciplinary approach to problem-solving.
+
+💼 Current Projects
+At Catalyst Labs, we’re working on:
+
+[Project 1 Name]: A brief description of the project and your role in it.
+[Project 2 Name]: Another project with key points about technology and legal focus.
+⚡ Tech Stack & Skills
+Languages: [List key programming languages, e.g., Python, JavaScript, etc.]
+Frameworks: [List frameworks, e.g., React, Node.js, etc.]
+Tools: [DevOps tools, IDEs, etc.]
+🚀 Contact & Collaborations
+💼 LinkedIn | 🐦 Twitter
+📧 For any collaboration inquiries, feel free to reach out.
