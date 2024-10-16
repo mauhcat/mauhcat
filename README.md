@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Zani
 
 
-👨‍💻 Full Stack:Proficient in React and Node.js
+👨‍💻 Full Stack:Proficient in React and Node.js<br />
 🎨 Frontend: Strong in HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap, React.js.
 🚀 Backend: Experience with Node.js, Firebase, and Convex.
 🔄 State Management: Knowledgeable in Redux for large-scale React applications.
