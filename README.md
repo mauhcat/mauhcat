@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Zani
 
-<!--
-**mauhcat/mauhcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Full Stack:Proficient in React and Node.js
+🎨 Frontend: Strong in HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap, React.js.
+🚀 Backend: Experience with Node.js, Firebase, and Convex.
+🔄 State Management: Knowledgeable in Redux for large-scale React applications.
+📱 UI/UX: Familiar with Figma for design.
+📝 Version Control: Git/GitHub proficiency.
+☁️ Deployment: Experienced in deploying on AWS, Heroku, Hostinger and Netlify.
+✔️ Testing: Familiar with Jest, Mocha, and React Testing Library.
+🔍 Problem-solving: Strong debugging skills.
+💬 Communication: Effective team collaboration.
